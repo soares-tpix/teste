@@ -1,4 +1,4 @@
-teste
-=====
+Aprendendo Github
+=================
 
-primeiro teste
+Descrição de como mexer no Github
